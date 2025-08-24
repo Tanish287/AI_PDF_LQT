@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-multipart
+openai
+streamlit
+pdfplumber
+pydantic
